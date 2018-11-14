@@ -49,3 +49,5 @@ wp-content/plugins directory
 3. Activate the plugin in the WordPress Admin Panel
 4. Start creating new shortcode
 5. View the resulting page
+
+If some error happens you can init a chat at https://trevia.es
