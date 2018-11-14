@@ -1,5 +1,5 @@
 # Spanish Chat #
-* Contributors:      treviaes
+* Contributors:      Jesus Gomez
 * Tags:              chat,spanish
 * Requires at least: 4.5
 * Tested up to:      4.9
@@ -17,19 +17,20 @@ You can configure the user name and chatroom but afterthat any user can change t
 
 
 ### Contribute ###
-* Active development of this plugin is handled [on Bitbucket](https://bitbucket.org/kenoff/chat-spanish).
+* Active development of this plugin is handled [on Bitbucket](https://bitbucket.org/kenoff/spanish-chat/src/master/).
 
 * If you want to help us translate this plugin you can do so [on WordPress Translate](https://translate.wordpress.org/projects/wp-plugins/spanish-chat/).
 
 ### Credits ###
 * Author: [Jesús Gómez]()
+* Author: [https://trevia.es/]()
 
 ## Installation ##
 * If you don’t know how to install a plugin for WordPress, [here’s how](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 
 ### Requirements ###
 * PHP 5.2.4 or greater
-* WordPress 3.8 or greater
+* WordPress 3.9 or greater
 
 ### Settings ###
 After you have activated *Spanish Chat* you must to add the shortcode to any page or post.
